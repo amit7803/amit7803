@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently building **Autonomous Robots & IoT Smart Systems**
-- 🌱 Learning **Flask, ROS2, AI pipelines, and Deep Learning**
+- 🌱 Learning **Flask, ROS2, some library like numpy &json&pandas& and Deep Learning**
 - ⚡ Fun Fact: I blend software, hardware & AI to create futuristic robots
 - 📫 Reach me: **amitpawar7803@gmail.com**
 
